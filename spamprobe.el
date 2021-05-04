@@ -1,4 +1,5 @@
-;;; spamprobe.el - spamprobe utils for emacs.
+;;; spamprobe.el --- spamprobe utils for emacs.
+
 ;; Copyright 2002 by Dave Pearson <davep@davep.org>
 ;; $Revision: 1.6 $
 
